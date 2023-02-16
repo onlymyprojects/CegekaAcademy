@@ -1,0 +1,15 @@
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.deps.json
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.dll
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.Domain.pdb
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.DAL.dll
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\bin\Debug\net6.0\PetShelterDemo.DAL.pdb
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.AssemblyReference.cache
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.AssemblyInfoInputs.cache
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.AssemblyInfo.cs
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.CoreCompileInputs.cache
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.csproj.CopyComplete
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.dll
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\refint\PetShelterDemo.Domain.dll
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\PetShelterDemo.Domain.pdb
+D:\Cegeka\Tema_01\PetShelterDemo\PetShelterDemo.Domain\obj\Debug\net6.0\ref\PetShelterDemo.Domain.dll
